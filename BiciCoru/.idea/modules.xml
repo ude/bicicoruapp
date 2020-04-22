@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BiciCoru.iml" filepath="$PROJECT_DIR$/BiciCoru.iml" group="BiciCoru" />
+      <module fileurl="file://$PROJECT_DIR$/basesdk/basesdk.iml" filepath="$PROJECT_DIR$/basesdk/basesdk.iml" group="BiciCoru/basesdk" />
+      <module fileurl="file://$PROJECT_DIR$/bicicorucommon/bicicorucommon.iml" filepath="$PROJECT_DIR$/bicicorucommon/bicicorucommon.iml" group="BiciCoru/bicicorucommon" />
+      <module fileurl="file://$PROJECT_DIR$/presentation/presentation.iml" filepath="$PROJECT_DIR$/presentation/presentation.iml" group="BiciCoru/presentation" />
+    </modules>
+  </component>
+</project>
